@@ -72,6 +72,7 @@ Repo mirrors:
 - [Moonlander](https://sr.ht/~admicos/moonlander/) (Rust) - the fanciest Gemini client in the entire solar system.
 - [Kristall](https://github.com/MasterQ32/kristall) (C++) - graphical Gopher and Gemini client using QT.
 - [spacewar](https://github.com/ResonAtom/spacewar) (Electron.js) - Gemini browser running on Electron.
+- [Sputnick](https://github.com/DealPete/Sputnik) (Swift) - Desktop gemini browser written in Swift
 
 #### Mobile
 - [Ariane](https://oppen.digital/software/ariane/) (Kotlin/Java) - Gemini protocol client for Android based OS.
